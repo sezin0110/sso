@@ -1,6 +1,18 @@
 function front(){
 
 	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
+	console.log("색이 이상하다");
 
 	
 }
